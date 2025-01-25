@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Easilvab06/automotriz04.git/static/css/main.e3fcc291.css",
+    "main.js": "/Easilvab06/automotriz04.git/static/js/main.ee2f7679.js",
+    "static/js/156.6f37aa5c.chunk.js": "/Easilvab06/automotriz04.git/static/js/156.6f37aa5c.chunk.js",
+    "index.html": "/Easilvab06/automotriz04.git/index.html",
+    "main.e3fcc291.css.map": "/Easilvab06/automotriz04.git/static/css/main.e3fcc291.css.map",
+    "main.ee2f7679.js.map": "/Easilvab06/automotriz04.git/static/js/main.ee2f7679.js.map",
+    "156.6f37aa5c.chunk.js.map": "/Easilvab06/automotriz04.git/static/js/156.6f37aa5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fcc291.css",
+    "static/js/main.ee2f7679.js"
+  ]
+}
