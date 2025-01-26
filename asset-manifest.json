@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/automotriz04/static/css/main.e3fcc291.css",
-    "main.js": "/automotriz04/static/js/main.3520884a.js",
+    "main.js": "/automotriz04/static/js/main.20c89c78.js",
     "static/js/156.6f37aa5c.chunk.js": "/automotriz04/static/js/156.6f37aa5c.chunk.js",
     "index.html": "/automotriz04/index.html",
     "main.e3fcc291.css.map": "/automotriz04/static/css/main.e3fcc291.css.map",
-    "main.3520884a.js.map": "/automotriz04/static/js/main.3520884a.js.map",
+    "main.20c89c78.js.map": "/automotriz04/static/js/main.20c89c78.js.map",
     "156.6f37aa5c.chunk.js.map": "/automotriz04/static/js/156.6f37aa5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3fcc291.css",
-    "static/js/main.3520884a.js"
+    "static/js/main.20c89c78.js"
   ]
 }
